@@ -1,8 +1,8 @@
 /*!
  * design: redteamobile.com
- * hash: 579bdef986bf6a85cfc5
+ * hash: 0f139d21dc904defb57a
  * chunkhash: ca91d61880e3b8ab5fa8
  * name: i18n
- * _: 2021-9-28 17:03:53
+ * _: 2021-10-28 14:35:25
  */
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[16],{"302e":function(e,t,n){var a={"./de":["215a",0],"./de.js":["215a",0],"./en-us":["1f91"],"./en-us.js":["1f91"]};function s(e){if(!n.o(a,e))return Promise.resolve().then((function(){var t=new Error("Cannot find module '"+e+"'");throw t.code="MODULE_NOT_FOUND",t}));var t=a[e],s=t[0];return Promise.all(t.slice(1).map(n.e)).then((function(){return n(s)}))}s.keys=function(){return Object.keys(a)},s.id="302e",e.exports=s},"4c9b":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"row"},[n("q-btn",{staticClass:"m-r-20",attrs:{label:e.$t("messages.success")}}),n("q-btn",{attrs:{label:e.$t("messages.failed")}}),n("q-select",{staticStyle:{"min-width":"150px"},attrs:{options:e.langOptions,label:"Quasar Language",dense:"",borderless:"","emit-value":"","map-options":"","options-dense":""},model:{value:e.lang,callback:function(t){e.lang=t},expression:"lang"}})],1)},s=[],l=n("9ab4"),o=n("a6d8"),r=n("60a3");const c=o.filter(e=>["de","en-us"].includes(e.isoName));let i=class extends r["c"]{constructor(){super(...arguments),this.lang=this.$q.lang.isoName,this.langOptions={}}onchange(e){n("302e")("./"+e).then(e=>{this.$q.lang.set(e.default)})}created(){this.langOptions=c.map(e=>({label:e.nativeName,value:e.isoName}))}};Object(l["__decorate"])([Object(r["d"])("lang")],i.prototype,"onchange",null),i=Object(l["__decorate"])([Object(r["a"])({name:"Index"})],i);var u=i,d=u,p=n("2877"),b=n("9c40"),m=n("ddd8"),f=n("eebe"),g=n.n(f),h=Object(p["a"])(d,a,s,!1,null,"68d404a8",null);t["default"]=h.exports;g()(h,"components",{QBtn:b["a"],QSelect:m["a"]})}}]);
