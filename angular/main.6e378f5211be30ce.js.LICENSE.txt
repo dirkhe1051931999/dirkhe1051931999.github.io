@@ -1,0 +1,42 @@
+/*!
+ *     ____  __  ______  __________ _    _____________       ____________
+ *    / __ \/ / / / __ \/_  __/ __ \ |  / /  _/ ____/ |     / / ____/ __ \
+ *   / /_/ / /_/ / / / / / / / / / / | / // // __/  | | /| / / __/ / /_/ /
+ *  / ____/ __  / /_/ / / / / /_/ /| |/ // // /___  | |/ |/ / /___/ _, _/
+ * /_/   /_/ /_/\____/ /_/  \____/ |___/___/_____/  |__/|__/_____/_/ |_|
+ *
+ * photoviewer - v3.6.2
+ * A JS plugin to view images just like in Windows
+ * https://nzbin.github.io/photoviewer/
+ *
+ * Copyright (c) 2018 nzbin
+ * Released under MIT License
+ */
+
+/*! js-cookie v3.0.1 | MIT */
+
+/**
+   * @license
+   * Copyright Google LLC All Rights Reserved.
+   *
+   * Use of this source code is governed by an MIT-style license that can be
+   * found in the LICENSE file at https://angular.io/license
+   */
+
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * @license Angular v13.3.4
+ * (c) 2010-2022 Google LLC. https://angular.io/
+ * License: MIT
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
