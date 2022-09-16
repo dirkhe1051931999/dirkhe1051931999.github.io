@@ -1,0 +1,8 @@
+/*!
+ * design: https://github.com/dirkhe1051931999 
+ *  hash: 5df29f31566707bc2f9a
+ * chunkhash: 1a9d0ffd27e204b10719
+ * name: copy
+ * _: 2022/9/16 11:16:33
+ */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"15e1":function(e,t,a){(t=a("24fb")(!1)).push([e.i,".animate-bounce[data-v-26467ad0]{animation:q-bounce-26467ad0 2s infinite}@keyframes q-bounce-26467ad0{0%,20%,50%,80%,to{transform:translateY(0)}40%{transform:translateY(-30px)}60%{transform:translateY(-15px)}}",""]),e.exports=t},"3f07":function(e,t,a){var o=a("15e1");(o="string"==typeof(o=o.__esModule?o.default:o)?[[e.i,o,""]]:o).locals&&(e.exports=o.locals),(0,a("499e").default)("af3a3d10",o,!0,{sourceMap:!1})},"685a":function(e,t,a){"use strict";a("3f07")},ad6c:function(e,t,a){"use strict";a.r(t);var o=a("9ab4"),n=a("cdde"),s=a("60a3"),i=a("bd4c"),c=class extends s.c{constructor(){super(...arguments),this.loremipsum="Lorem ipsum dolor sit amet, consectetur adipisicing elit, "}onClick(){Object(n.a)(this.loremipsum).then((()=>{this.$q.notify({message:this.loremipsum,caption:i.b.formatDate(Date.now(),"YYYY-MM-DDTHH:mm:ss.SSSZ"),color:"primary",multiLine:!0,icon:"mood",actions:[{label:"Close",color:"white"}]})})).catch((()=>{}))}},r=(o=Object(o.__decorate)([Object(s.a)({name:"Index"})],c),s=(a("685a"),a("2877")),c=a("27f9"),a("9c40")),l=a("eebe");a=a.n(l),l=Object(s.a)(o,(function(){var e=this,t=e._self._c;return e._self._setupProxy,t("div",[t("q-input",{attrs:{type:"textarea",label:"Copy"},model:{value:e.loremipsum,callback:function(t){e.loremipsum=t},expression:"loremipsum"}}),t("q-btn",{attrs:{color:"primary",icon:"content_cut",label:"copy"},on:{click:e.onClick}})],1)}),[],!1,null,"26467ad0",null);t.default=l.exports,a()(l,"components",{QInput:c.a,QBtn:r.a})}}]);
