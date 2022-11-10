@@ -1,8 +1,8 @@
 /*!
  * design: https://github.com/dirkhe1051931999 
- *  hash: 5df29f31566707bc2f9a
+ *  hash: 74d18adb06a298589752
  * chunkhash: e94b2cf5a674bad79ce9
  * name: dialog
- * _: 2022/9/16 11:16:33
+ * _: 2022/11/10 21:43:13
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[12],{d62a:function(o,t,e){"use strict";e.r(t);var l=e("9ab4"),s=e("60a3"),i=class extends s.c{radio(){this.$q.dialog({title:"Options",message:"Choose your option, but make sure it's the second one :)",options:{type:"radio",model:"opt1",isValid:o=>"opt2"===o,items:[{label:"Option 1",value:"opt1"},{label:"Option 2",value:"opt2"},{label:"Option 3",value:"opt3"}]},cancel:!0,persistent:!0}).onOk((()=>{}))}checkbox(){this.$q.dialog({title:"Options",message:"Choose your options, but make sure you also pick the second one.",options:{type:"checkbox",model:[],isValid:o=>o.includes("opt2"),items:[{label:"Option 1",value:"opt1"},{label:"Option 2",value:"opt2"},{label:"Option 3",value:"opt3"}]},cancel:!0,persistent:!0}).onOk((()=>{}))}toggle(){this.$q.dialog({title:"Options",message:"Choose your options, but make sure you also pick the first two.",options:{type:"toggle",model:[],isValid:o=>o.includes("opt1")&&o.includes("opt2"),items:[{label:"Option 1",value:"opt1"},{label:"Option 2",value:"opt2"},{label:"Option 3",value:"opt3"}]},cancel:!0,persistent:!0}).onOk((()=>{}))}},a=(l=Object(l.__decorate)([s.a],i),s=e("2877"),i=e("9c40"),e("eebe"));e=e.n(a),a=Object(s.a)(l,(function(){var o=this,t=o._self._c;return o._self._setupProxy,t("div",{staticClass:"q-pa-md q-gutter-sm"},[t("q-btn",{attrs:{label:"Radio Options",color:"primary"},on:{click:o.radio}}),t("q-btn",{attrs:{label:"Checkbox Options",color:"primary"},on:{click:o.checkbox}}),t("q-btn",{attrs:{label:"Toggle Options",color:"primary"},on:{click:o.toggle}})],1)}),[],!1,null,"56cd9547",null);t.default=a.exports,e()(a,"components",{QBtn:i.a})}}]);
