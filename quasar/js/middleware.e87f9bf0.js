@@ -1,8 +1,8 @@
 /*!
  * design: https://github.com/dirkhe1051931999 
- *  hash: 74d18adb06a298589752
+ *  hash: 5e8b84759ed7ee2bb312
  * chunkhash: e87f9bf0c10dedaa9971
  * name: middleware
- * _: 2022/11/10 21:43:13
+ * _: 2022/11/11 10:57:49
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{"014d":function(t,e,a){"use strict";a.r(e);var n=a("9ab4"),s=a("60a3"),i=class extends s.c{created(){this.$router.push("/dashboard")}};n=Object(n.__decorate)([Object(s.a)({name:"page-middleware"})],i),a("ea35"),s=a("2877"),i=Object(s.a)(n,(function(){var t=this;return t._self._c,t._self._setupProxy,t._m(0)}),[function(){var t=this._self._c;return this._self._setupProxy,t("div",{staticClass:"timeline-wrapper"},[t("div",{staticClass:"van-skeleton van-skeleton--animate"},[t("div",{staticClass:"van-skeleton__content"},[t("h3",{staticClass:"van-skeleton__title",staticStyle:{width:"40%"}}),t("div",{staticClass:"van-skeleton__row",staticStyle:{width:"100%"}}),t("div",{staticClass:"van-skeleton__row",staticStyle:{width:"100%"}}),t("div",{staticClass:"van-skeleton__row",staticStyle:{width:"60%"}})])])])}],!1,null,"1d3743c8",null);e.default=i.exports},"8e00":function(t,e,a){(e=a("24fb")(!1)).push([t.i,"@keyframes van-skeleton-blink-1d3743c8{0%{opacity:0.6}to{opacity:1}}.van-skeleton[data-v-1d3743c8]{display:flex;display:-webkit-flex;display:-webkit-box;padding:0 16px}.van-skeleton--animate[data-v-1d3743c8]{animation:van-skeleton-blink-1d3743c8 1.2s ease-in-out infinite;-webkit-animation:van-skeleton-blink-1d3743c8 1.2s ease-in-out infinite}.van-skeleton__content[data-v-1d3743c8]{width:100%}.van-skeleton__row[data-v-1d3743c8],.van-skeleton__title[data-v-1d3743c8]{height:16px;background-color:#f2f3f5}.van-skeleton__title[data-v-1d3743c8]{margin:0}.van-skeleton__title+.van-skeleton__row[data-v-1d3743c8]{margin-top:20px}.van-skeleton__row[data-v-1d3743c8]{margin-top:12px}",""]),t.exports=e},b09f:function(t,e,a){var n=a("8e00");(n="string"==typeof(n=n.__esModule?n.default:n)?[[t.i,n,""]]:n).locals&&(t.exports=n.locals),(0,a("499e").default)("48f81166",n,!0,{sourceMap:!1})},ea35:function(t,e,a){"use strict";a("b09f")}}]);
