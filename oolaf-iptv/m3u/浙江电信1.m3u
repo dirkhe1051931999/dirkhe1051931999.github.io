@@ -1,0 +1,57 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="浙江电信",CCTV1
+http://115.220.241.53:9999/rtp/233.50.201.222:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="浙江电信",CCTV2
+http://115.220.241.53:9999/rtp/233.50.201.119:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="浙江电信",CCTV3
+http://115.220.241.53:9999/rtp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="浙江电信",CCTV4
+http://115.220.241.53:9999/rtp/233.50.200.101:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="浙江电信",CCTV5
+http://115.220.241.53:9999/rtp/233.50.201.108:5140
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="浙江电信",CCTV5+
+http://115.220.241.53:9999/rtp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="浙江电信",CCTV6
+http://115.220.241.53:9999/rtp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="浙江电信",CCTV7
+http://115.220.241.53:9999/rtp/233.50.201.120:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="浙江电信",CCTV8
+http://115.220.241.53:9999/rtp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="浙江电信",CCTV9
+http://115.220.241.53:9999/rtp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="浙江电信",CCTV10
+http://115.220.241.53:9999/rtp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="浙江电信",CCTV11
+http://115.220.241.53:9999/rtp/233.50.200.132:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="浙江电信",CCTV12
+http://115.220.241.53:9999/rtp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="浙江电信",CCTV13
+http://115.220.241.53:9999/rtp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="浙江电信",CCTV14
+http://115.220.241.53:9999/rtp/233.50.201.124:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="浙江电信",CCTV15
+http://115.220.241.53:9999/rtp/233.50.200.133:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="浙江电信",CCTV17
+http://115.220.241.53:9999/rtp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16%204K.png" group-title="浙江电信",CCTV16 4K
+http://115.220.241.53:9999/rtp/233.50.201.192:5140
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="浙江电信",CCTV4K
+http://115.220.241.53:9999/rtp/233.50.201.226:5140
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="浙江电信",浙江卫视4K
+http://115.220.241.53:9999/rtp/233.50.202.104:5140
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="浙江电信",浙江卫视
+http://115.220.241.53:9999/rtp/233.50.200.231:5140
+#EXTINF:-1 tvg-id="浙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="浙江电信",浙江新闻
+http://115.220.241.53:9999/rtp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="浙江民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F.png" group-title="浙江电信",浙江民生
+http://115.220.241.53:9999/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="浙江科教影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E7%A7%91%E6%95%99%E5%BD%B1%E8%A7%86.png" group-title="浙江电信",浙江科教影视
+http://115.220.241.53:9999/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="浙江电信",浙江经济生活
+http://115.220.241.53:9999/rtp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="浙江钱江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F.png" group-title="浙江电信",浙江钱江
+http://115.220.241.53:9999/rtp/233.50.201.132:5140
+#EXTINF:-1 tvg-id="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="浙江电信",浙江少儿
+http://115.220.241.53:9999/rtp/233.50.201.138:5140
+#EXTINF:-1 tvg-id="浙江好易购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%A5%BD%E6%98%93%E8%B4%AD.png" group-title="浙江电信",浙江好易购
+http://115.220.241.53:9999/rtp/233.50.201.248:5140
